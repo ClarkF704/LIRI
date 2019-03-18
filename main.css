@@ -1,0 +1,14 @@
+body{
+    background-image: url("tree.jpg")
+}
+h1{
+    text-align:center;
+    font-family: 'ZCOOL XiaoWei', serif;
+    color:white;
+    
+}
+h2{
+    text-align:center;
+    font-family: 'ZCOOL XiaoWei', serif;
+    color:skyblue;
+}
